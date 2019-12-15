@@ -1,0 +1,72 @@
+body{
+    font-family: "Manjari";
+    background: #F3F7F7;
+    background: #F3F7F7 url("images/service_bg.png") 100px 304px;
+}
+.hotelCard{
+    padding:10px 10px 10px 10px;
+    margin-bottom: 20px;
+    border:2px solid lavender;
+    background: url("images/service_bg.png") 100px 304px;
+}
+.hotelCard h5{
+    text-transform: uppercase;
+}
+.hotelCard h4{
+    color:#EE3B24!important;
+}
+.hotelFilters {
+    background: lightgray url("images/service_bg.png") 100px 304px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+}
+.hotelFilters input {
+    opacity: 3.7;
+    margin-left: 13px;
+    border: 10px solid gray;
+
+}
+.hotelSearch input {
+    border: 2px solid lavender;
+    margin-bottom: 14px;
+    height: 36px;
+    padding: 15px;
+}
+.hotelSearch{
+   margin-left: auto;
+    margin-right: auto;
+    display: table; 
+ background: white url("images/service_bg.png") 100px 304px;
+}
+.btn {
+    border: 1px solid lavender;
+    border-radius: 0px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+label {
+    padding: 10px;
+}
+nav{
+    box-shadow: 0 4px 12px 0 rgba(0,5,13,.1);
+    background: white url("images/service_bg.png") 100px 304px;
+
+}
+.container{
+    padding: 30px;
+    box-shadow: 0 4px 12px 0 rgba(0,5,13,.1);
+    background: white;
+    z-index:1;
+}
+.hotelSort {
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    background: white url("images/service_bg.png") 100px 304px;
+}
+
+
